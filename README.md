@@ -1,5 +1,1 @@
--I have a strong interest in deep learning and artificial intelligence.  
--Currently exploring LangChain, PyTorch, and TensorFlow to build smarter systems.  
--Open to collaborating on AI and ML-based projects.  
 -Feel free to reach out at: krishhankar@gmail.com  
--Pronouns: He/Him
